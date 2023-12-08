@@ -1,0 +1,47 @@
+Choosing Nodes in Hidden Layers
+
+Once hidden layers have been decided the next task is to choose the number of nodes in each hidden layer.
+
+The number of hidden neurons should be between the size of the input layer and the output layer.
+The most appropriate number of hidden neurons is
+sqrt(input layer nodes * output layer nodes)
+https://www.linkedin.com/pulse/choosing-number-hidden-layers-neurons-neural-networks-sachdev#:~:text=If%20data%20is%20less%20complex,hidden%20layers%20can%20be%20used.
+
+https://medium.com/geekculture/introduction-to-neural-network-2f8b8221fbd3
+
+
+https://towardsdatascience.com/keras-callbacks-and-how-to-save-your-model-from-overtraining-244fc1de8608
+
+
+
+
+Undersampling
+- random Undersampling
+
+Oversampling
+- Random Oversampling
+
+    Điểm yếu: nhân bản bản ghi sẽ gây ra trùng lặp dữ liệu
+
+- Cluster
+
+- SMOTE
+    Điểm yếu: 
+        - Không phù hợp với dữ liệu nhiều chiều
+
+https://github.com/Yasir-ali-farrukh/Payload-Byte
+
+
+
+Sử dụng 
+feature_importance
+
+
+k-fold cross validation
+
+kỹ thuật lượng tử hóa: 
+Lập trình huấn luyện mô hình LSTM lượng tử hóa để phát hiện tấn công IoT
+
+
+
+
